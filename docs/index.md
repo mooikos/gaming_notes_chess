@@ -8,6 +8,6 @@ This site holds gaming notes about Chess.
 
 ## Initial Move White
 
-- [Nf3](Nf3.md)
+- [Nf3](Nf3)
 
 ## Initial Move Black
